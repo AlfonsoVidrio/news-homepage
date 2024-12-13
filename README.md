@@ -18,8 +18,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: start;">
-  <img src="./screencapture-desktop.png" alt="Screenshot desktop" style="width: 100%; max-width: 600px; height: auto;">
-  <img src="./screencapture-mobile.png" alt="Screenshot mobile" style="width: 100%; max-width: 150px; height: auto;">
+  <img src="./screencapture-desktop.png" alt="Screenshot desktop" max-width: 600px; height: auto;">
+  <img src="./screencapture-mobile.png" alt="Screenshot mobile" max-width: 100px; height: auto;">
 </div>
 
 ### Links
