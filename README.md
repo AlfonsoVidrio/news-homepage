@@ -24,8 +24,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-using-react-and-tailwind-css-TYPcXi0tk_)
+- [Live Site URL](https://alfonsovidrio.github.io/news-homepage/)
 
 ## My process
 
